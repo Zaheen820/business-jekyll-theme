@@ -148,11 +148,11 @@ float: right;
 body {
     font-size: 15px;
     line-height: 24px;
-    background:#F8FAFF;
+    background:#2f3d3c;
 }
 
 a {
-    color: #55CBD2;
+    color: #121414;
     text-decoration: none;
     -o-transition: all .3s;
     -moz-transition: all .3s;
